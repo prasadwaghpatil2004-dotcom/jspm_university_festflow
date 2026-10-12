@@ -67,5 +67,5 @@ dist/
 outputs/
 work/
 jspm-festflow.zip
-vendor/
+
 dist/
