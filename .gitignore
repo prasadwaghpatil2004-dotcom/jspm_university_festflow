@@ -58,7 +58,7 @@ node_modules/
 
 # Build output
 dist/
-build/
+
 
 # Local tool state
 .sites-runtime/
@@ -69,4 +69,3 @@ work/
 jspm-festflow.zip
 vendor/
 dist/
-build/
