@@ -1,4 +1,4 @@
-# JSPM Pulse
+# JSPM festflow
 
 A responsive, animated single-page campus event hub for JSPM University, Pune. Built with React 19, TypeScript, the Next.js App Router-compatible Vinext runtime, Tailwind CSS, Radix/Shadcn, Lucide and CSS motion. Includes campus events, concept-based fuzzy search, calendar exports, QR passes, profile editing, bookmarks and a simulated vision upload workflow.
 
